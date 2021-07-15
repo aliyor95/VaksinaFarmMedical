@@ -1912,7 +1912,11 @@ iframe {
     .nav__link-a {
         margin: 0;
         font-size: 40px;
-        margin: 20px;
+        margin: 5px;
+    }
+
+    .nav__link-a:last-child {
+        margin-right: 5px;
     }
 
     .logo-nav {
